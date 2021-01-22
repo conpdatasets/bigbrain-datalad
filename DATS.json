@@ -22,9 +22,10 @@
     "distributions": [
 	        {
 			"formats": [
-				"MINC"
+				"MINC",
+				"NIfTI"
             		],
-			"size" :80,
+			"size" : 109,
 		        "unit" : {
             			"value": "GB"
 		        },
@@ -106,7 +107,7 @@
 			"category": "files",
 			"values": [
 				{
-					"value": "320"
+					"value": "317"
 				}
 			]
 		},

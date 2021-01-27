@@ -13,7 +13,7 @@ The BigBrain is the digitized reconstruction of the hi-res histological sections
 This dataset contains the 3D blocks and 3D volumes of the BigBrain release 2015
 published in the [BigBrain Project website](https://bigbrainproject.org).
 
-The 3D 40 um blocks of the BigBrain are 5x5x5 blocks for a total of 125 blocks
+The 3D 40 microns blocks of the BigBrain are 5x5x5 blocks for a total of 125 blocks
 representing the BigBrain with small overlap at block boundaries.
 
 The 3D histological volumes (Merker stain) are also available at different 
@@ -23,7 +23,7 @@ histological space, with and without optical balancing. The MNI ICBM152
 can be found at http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009.
 
 
-All files are available in MINC and NIfTI formats except for the 100um volumes 
+All files are available in MINC and NIfTI formats except for the 100 microns volumes 
 since they are too large to convert to NIfTI using the current version of our
 converter.
 

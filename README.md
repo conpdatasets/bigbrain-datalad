@@ -23,9 +23,7 @@ histological space, with and without optical balancing. The MNI ICBM152
 2009b symmetric model used for the stereotaxic registration of the BigBrain 
 can be found at http://www.bic.mni.mcgill.ca/ServicesAtlases/ICBM152NLin2009.
 
-All files are available in MINC and NIfTI formats except for the 100 microns volumes 
-since they are too large to convert to NIfTI using the current version of our
-converter.
+All files are available in MINC and NIfTI formats. 
 
 ## Reference and more information
 

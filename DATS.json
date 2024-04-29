@@ -150,6 +150,14 @@
 					"value": "logo.png"
 				}
 			]
+		},
+		{
+			"category": "downloadOptions",
+			"values": [
+				{
+					"value": "direct"
+				}
+			]
 		}
     ]
 }
